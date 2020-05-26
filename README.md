@@ -1,5 +1,5 @@
-# go-training
-Training for Golang (go language)
+# go-basic-training
+Woking examples of foundational Go programing
 
 ## Formatting
 format code in current directory
